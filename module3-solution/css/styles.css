@@ -1,11 +1,12 @@
 
-.navbar button.navbar-toggler {
-  
-}
 
-.nav-item {
+div ul li.nav-item a.nav-link {
 	text-align: center;
 	background-color: #669999;
+	border: 1px;
+	border-color: red;
+	border:solid;
+
 }
 body {
 	
@@ -13,7 +14,6 @@ body {
 }
 
 h2 {
-	text-align: center;
 	color: red;
 	padding-top: 20px;
 }
